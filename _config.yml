@@ -25,7 +25,6 @@ navigation:
   - {file: "zdroje.md",     title: "Zdroje",      sidebaricon: link}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:matuskova97@uniba.sk"}
   - {title: Github, icon: github, url: "https://github.com/nina-mat2004"}
 
 plugins:
