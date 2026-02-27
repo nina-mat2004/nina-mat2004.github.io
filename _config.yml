@@ -18,11 +18,8 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:
-  - {file: "informacie.md", title: "Informácie", sidebaricon: info-circle}
-  - {file: "prehlad.md",    title: "Prehľad",     sidebaricon: stream}
   - {file: "dennik.md",     title: "Denník",      sidebaricon: book}
   - {file: "galeria.md",    title: "Galéria",     sidebaricon: images}
-  - {file: "zdroje.md",     title: "Zdroje",      sidebaricon: link}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Github, icon: github, url: "https://github.com/nina-mat2004"}
