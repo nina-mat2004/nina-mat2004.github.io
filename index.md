@@ -28,7 +28,7 @@ permalink: /
   <h1>Zdroje</h1>
 
   <p class="button">
-  <a href="[https://dev.epicgames.com/documentation/](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation?application_version=5.4)" target="_blank">
+  <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation?application_version=5.4" target="_blank">
     Unreal Engine dokumentácia
   </a>
   </p>
