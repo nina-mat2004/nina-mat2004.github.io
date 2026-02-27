@@ -1,6 +1,6 @@
 ---
 title: Informácie
-permalink: /:informacie/
+permalink: /informacie/
 ---
 
 **Študent:** Nina Leoni Matušková
