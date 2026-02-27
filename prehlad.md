@@ -1,6 +1,6 @@
 ---
 title: Prehľad
-permalink: /:prehlad/
+permalink: /prehlad/
 ---
 
 ## Názov
