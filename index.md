@@ -23,3 +23,8 @@ permalink: /
   <h2>Cieľ</h2>
   Cieľom práce je navrhnúť a implementovať počítačovú hru. Zápletkou hry je, že hráč stroskotá na ostrove a je postavený pred problém postaviť loď, aby sa z ostrova dostal preč. Herné prostredie bude nehostinné a hráč bude musieť robiť všetko preto, aby v ňom prežil, od zabezpečenia potravy, udržiavania telesnej teploty, uspokojenia hladu až po prežitie kontaktu so živými tvormi. Aby to vedel dosiahnúť, hráč bude schopný vytvárať rôzne predmety a budovy z materiálov a iných predmetov. Nástroje bude vedieť taktiež použiť na vykonávanie rôznych činností. Súčasťou práce bude analýza podobných existujúcich hier. Študentka implementuje hru v hernom engine podľa vlastného výberu.
 </article>
+
+<article>
+  <h1>Zdroje</h1>
+  <p> ▸ [Unreal Engine Documentation]([https://dev.epicgames.com/documentation/](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation?application_version=5.4)
+</article>
