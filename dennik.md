@@ -1,5 +1,5 @@
 <article>
-<h1>Týždenník</h1>
+<h1>Denník</h1>
 
 <article>
 
