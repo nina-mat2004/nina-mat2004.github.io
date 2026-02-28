@@ -1,7 +1,3 @@
----
-title: "Domov"
----
-
 <article>
   <h1>Informácie</h1>
 
