@@ -8,9 +8,9 @@ title: Týždenník
 
 <h2>Týždeň 1 (23.02.2026 - 01.03.2026)</h2>
 
-<p>  - založenie GitHub webovej stránky</p>
-<p>  - vylepšenie systému inventára</p>
-<p>  - implementácia mechaniky presúvania a rotácie objektov v priestore</p>
+<p>  - založenie GitHub webovej stránky<br>
+     - vylepšenie systému inventára<br>
+     - implementácia mechaniky presúvania a rotácie objektov v priestore</p>
 
 </article>
 
