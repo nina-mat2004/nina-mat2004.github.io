@@ -17,8 +17,8 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:
-  - {file: "index.md",     title: "Domov",        sidebaricon: book}
-  - {file: "dennik.md",     title: "Denník",      sidebaricon: book}
+  - {file: "index.md",      title: "Domov",       sidebaricon: book}
+  - {file: "dennik.md",     title: "Týždenník",   sidebaricon: book}
   - {file: "galeria.md",    title: "Galéria",     sidebaricon: images}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
