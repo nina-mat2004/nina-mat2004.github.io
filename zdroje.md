@@ -1,4 +1,0 @@
----
-title: Zdroje
-permalink: /zdroje/
----
