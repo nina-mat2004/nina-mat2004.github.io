@@ -1,4 +1,1 @@
----
-title: Galéria
-permalink: /galeria/
----
+
