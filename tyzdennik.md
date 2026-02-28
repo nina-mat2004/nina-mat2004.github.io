@@ -1,7 +1,3 @@
----
-title: Týždenník
----
-
 <h1>Týždenník</h1>
 
 <article>
