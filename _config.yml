@@ -22,7 +22,7 @@ navigation:
   - {file: "galeria.md",    title: "Galéria",     sidebaricon: images}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Github, icon: github, url: "https://github.com/nina-mat2004"}
+  - {title: Github, icon: github, url: "https://github.com/nina-mat2004/SurvivalGame"}
 
 plugins:
  - jekyll-feed
