@@ -1,5 +1,3 @@
-<article>
-  <h2> Ukážka inventára </h2>
-  
-  ![Inventár](assets/images/inventory.png)
-</article>
+## Ukážka inventára
+
+![Inventár](assets/images/inventory.png)
