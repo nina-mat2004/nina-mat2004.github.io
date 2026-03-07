@@ -11,7 +11,9 @@ title: Denník
 
 ## Týždeň 2 (02.03.2026 – 08.03.2026)
 
-- ...
+- vylepšovanie systému inventára
+- prvá verzia crafting systému
+- bug fixy 
 
 
 ## Týždeň 3 (09.03.2026 – 15.03.2026)
