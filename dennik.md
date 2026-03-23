@@ -13,17 +13,20 @@ title: Denník
 
 - vylepšovanie systému inventára
 - prvá verzia crafting systému
-- bug fixy 
 
 
 ## Týždeň 3 (09.03.2026 – 15.03.2026)
 
-- ...
+- vylepšovanie crafting systému
+- AI pasívne zviera
+- vylepšovanie interaktívnych objektov
 
 
 ## Týždeň 4 (16.03.2026 – 22.03.2026)
 
-- ...
+- AI agresívne zviera
+- úprava systému itemov
+- Time Manager systém pre sledovanie herného času
 
 
 ## Týždeň 5 (23.03.2026 – 29.03.2026)
