@@ -27,7 +27,6 @@ title: Denník
 - AI agresívne zviera
 - úprava systému itemov
 - Time Manager systém pre sledovanie herného času
-- [Prezentácia (PDF)](assets/prezentaciaPDF.pdf)
 
 
 ## Týždeň 5 (23.03.2026 – 29.03.2026)
