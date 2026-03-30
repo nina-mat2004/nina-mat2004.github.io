@@ -1,5 +1,5 @@
 ---
-title: Denník
+title: Týždenník
 ---
 
 ## Týždeň 1 (23.02.2026 – 01.03.2026)
@@ -31,9 +31,12 @@ title: Denník
 
 ## Týždeň 5 (23.03.2026 – 29.03.2026)
 
-- ...
+- upratovanie priečinkov
+- implementácia konca hry
+- spawnovanie itemov do mapy
+- testovanie hry a odstraňovanie chýb
 
-
+<!--
 ## Týždeň 6 (30.03.2026 – 05.04.2026)
 
 - ...
@@ -67,3 +70,4 @@ title: Denník
 ## Týždeň 12 (11.05.2026 – 17.05.2026)
 
 - ...
+-->
