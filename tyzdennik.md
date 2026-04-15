@@ -36,22 +36,25 @@ title: Týždenník
 - spawnovanie itemov do mapy
 - testovanie hry a odstraňovanie chýb
 
-<!--
+
 ## Týždeň 6 (30.03.2026 – 05.04.2026)
 
-- ...
+- návrh hlavného menu
+- úprava kódu
 
 
 ## Týždeň 7 (06.04.2026 – 12.04.2026)
 
-- ...
+- respawn systém
+- úprava mapy
+- pridanie questov
 
 
 ## Týždeň 8 (13.04.2026 – 19.04.2026)
 
-- ...
+- pridanie zvukov
 
-
+<!--
 ## Týždeň 9 (20.04.2026 – 26.04.2026)
 
 - ...
