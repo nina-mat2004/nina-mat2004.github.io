@@ -54,12 +54,13 @@ title: Týždenník
 
 - pridanie zvukov
 
-<!--
+
 ## Týždeň 9 (20.04.2026 – 26.04.2026)
 
-- ...
+- save/load systém
+- testovanie a oprava chýb
 
-
+<!--
 ## Týždeň 10 (27.04.2026 – 03.05.2026)
 
 - ...
