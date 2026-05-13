@@ -65,5 +65,3 @@ title: Týždenník
 
 - testovanie a oprava chýb
 - písanie bakalárskej práce
-
--->
