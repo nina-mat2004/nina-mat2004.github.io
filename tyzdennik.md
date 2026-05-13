@@ -60,13 +60,10 @@ title: Týždenník
 - save/load systém
 - testovanie a oprava chýb
 
-<!--
-## Týždeň 11 (04.05.2026 – 10.05.2026)
 
-- ...
+## Týždeň 11 a 12 (04.05.2026 – 17.05.2026)
 
+- testovanie a oprava chýb
+- písanie bakalárskej práce
 
-## Týždeň 12 (11.05.2026 – 17.05.2026)
-
-- ...
 -->
